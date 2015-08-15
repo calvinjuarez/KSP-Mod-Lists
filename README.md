@@ -39,7 +39,7 @@ These add large numbers of parts and/or parts that easily become integral to a c
 ## Class 5 – *Game Changers*
 These mods overhaul whole features, or in some cases, the whole game.  Air- or spacecraft built with them may not work the same way in stock.  The changes they introduce often make the gameplay substantially different to stock.
 
-### *Features*
+### *Feature Overhauls*
 * Ferram Aerospace Research (FAR)
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
   - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
