@@ -25,12 +25,12 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 ## Class 4 – *Integral Mods*
 These mods add whole new mechanics or tech systems, or parts that tend to become integral to crafts, making them difficult to remove from crafts without breaking them.  These mods become a part of how you play the game in a save, so removing is normally prohibitively difficult.
 
-### 4A – *Tech*
+### *Tech*
 These add tech, and usually add or change parts for that tech.
 
 * [SCANsat](https://github.com/S-C-A-N/SCANsat "GitHub Repository")
 
-### 4B – *Integral Parts & Parts Packs*
+### *Integral Parts & Parts Packs*
 These add large numbers of parts and/or parts that easily become integral to a craft, making that craft difficult to make stock-compatible.
 
 * [B9 Aerospace](http://forum.kerbalspaceprogram.com/threads/92630-0-90-B9-Aerospace-Release-5-2-8-(updated-30-12-14) "KSP Forum Thread")
@@ -39,12 +39,12 @@ These add large numbers of parts and/or parts that easily become integral to a c
 ## Class 5 – *Game Changers*
 These mods overhaul whole features, or in some cases, the whole game.  Air- or spacecraft built with them may not work the same way in stock.  The changes they introduce often make the gameplay substantially different to stock.
 
-### 5A – *Features*
+### *Features*
 * Ferram Aerospace Research (FAR)
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
   - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
 
-### 5B – *Game Overhauls*
+### *Game Overhauls*
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
 
 
