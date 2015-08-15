@@ -39,8 +39,9 @@ These add large numbers of parts and/or parts that easily become integral to a c
 These mods overhaul whole features, or in some cases, the whole game.  Air- or spacecraft built with them may not work the same way in stock.  The changes they introduce often make the gameplay substantially different to stock.
 
 ### 5A – *Features*
-* [Ferram Aerospace Research (FAR)](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Kerbal Stuff Page")
-<!-- https://github.com/ferram4/Ferram-Aerospace-Research -->
+* Ferram Aerospace Research (FAR)
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
+  - [GitHub Repo](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
 
 ### 5B – *Game Overhauls*
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
