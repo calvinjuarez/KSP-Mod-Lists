@@ -18,6 +18,7 @@ These mods are mods that add parts, but don't generally add new mechanics.  They
 ## Tier 3 – *Tools*
 These are gameplay tools.  Their functions vary widely, so they also affect the game in lots of different ways.
 
+* [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 
 
@@ -39,8 +40,9 @@ These add large numbers of parts and/or parts that easily become integral to a c
 These mods overhaul whole features, or in some cases, the whole game.  Air- or spacecraft built with them may not work the same way in stock.  The changes they introduce often make the gameplay substantially different to stock.
 
 ### 5A – *Features*
-* [Ferram Aerospace Research (FAR)](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Kerbal Stuff Page")
-<!-- https://github.com/ferram4/Ferram-Aerospace-Research -->
+* Ferram Aerospace Research (FAR)
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
+  - [GitHub Repo](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
 
 ### 5B – *Game Overhauls*
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
