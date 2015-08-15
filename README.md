@@ -42,7 +42,7 @@ These mods overhaul whole features, or in some cases, the whole game.  Air- or s
 ### 5A – *Features*
 * Ferram Aerospace Research (FAR)
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
-  - [GitHub Repo](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
+  - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
 
 ### 5B – *Game Overhauls*
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
