@@ -3,13 +3,13 @@ This repository is just lists of links to KSP mods I like or want to try out, or
 
 
 ## Tier 1 – *Ambiance*
-These mods are mods that improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
+These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 
 
 ## Tier 2 – *Trivial Parts*
-These mods are mods that add parts, but don't generally add new mechanics.  They may also tweak existing parts.  The parts can easily be removed from crafts to make them stock-compatible.
+These mods add parts, but don't generally add new mechanics.  They may also tweak existing parts.  The parts can easily be removed from crafts to make them stock-compatible.
 
 * [Surface Lights](http://forum.kerbalspaceprogram.com/threads/57778-1-0-Surface-Mounted-Stock-Alike-Lights-for-Self-Illumination "KSP Forum Thread")
 * [EVA Handrails](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "KSP Forum Thread")
