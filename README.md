@@ -5,20 +5,20 @@ This repository is just lists of links to KSP mods I like or want to try out, or
 ## Class 1 – *Ambiance*
 These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
-* [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 * Distant Object Enhancement
   - [Original KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
-    * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
     * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis on Kerbal Stuff")
+    * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
+* [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 
 
 ## Class 2 – *Trivial Parts*
 These mods add parts, but don't generally add new mechanics.  They may also tweak existing parts.  The parts can easily be removed from crafts to make them stock-compatible.
 
-* [Surface Lights](http://forum.kerbalspaceprogram.com/threads/57778-1-0-Surface-Mounted-Stock-Alike-Lights-for-Self-Illumination "KSP Forum Thread")
 * [EVA Handrails](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "KSP Forum Thread")
+* [Surface Lights](http://forum.kerbalspaceprogram.com/threads/57778-1-0-Surface-Mounted-Stock-Alike-Lights-for-Self-Illumination "KSP Forum Thread")
 
 
 ## Class 3 – *Tools*
@@ -39,21 +39,21 @@ These mods add whole new mechanics or tech systems, or parts that tend to become
 ### *Tech*
 These add tech, and usually add or change parts for that tech.
 
-* SCANsat
-  - [GitHub Repository](https://github.com/S-C-A-N/SCANsat "SCANsat source on GitHub")
-  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/249/SCANsat "SCANsat on Kerbal Stuff")
 * Remote Tech
   - [Online Manual](https://remotetechnologiesgroup.github.io/RemoteTech/ "Remote Tech Main Site")
   - [GitHub Repository](https://github.com/RemoteTechnologiesGroup/RemoteTech "Remote Tech source on GitHub")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/83305-1-0-4-RemoteTech-v1-6-7-2015-06-25 "Remote Tech KSP Forum Thread")
+* SCANsat
+  - [GitHub Repository](https://github.com/S-C-A-N/SCANsat "SCANsat source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/249/SCANsat "SCANsat on Kerbal Stuff")
 
 ### *Integral Parts & Parts Packs*
 These add large numbers of parts and/or parts that easily become integral to a craft, making that craft difficult to make stock-compatible.
 
 * [B9 Aerospace](http://forum.kerbalspaceprogram.com/threads/92630-0-90-B9-Aerospace-Release-5-2-8-(updated-30-12-14) "KSP Forum Thread")
 * KW Rocketry (for KSP 1.0.2)
-  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/51037-1-02-KW-Rocketry-v2-7-Available-1-02-Compatibility!-16-05-2015 "KW Rocketry KSP Forum Thread")
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/67/KW%20Rocketry "KW Rocketry on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/51037-1-02-KW-Rocketry-v2-7-Available-1-02-Compatibility!-16-05-2015 "KW Rocketry KSP Forum Thread")
 
 
 ## Class 5 – *Game Changers*
@@ -61,8 +61,8 @@ These mods overhaul whole features, or in some cases, the whole game.  Air- or s
 
 ### *Feature Overhauls*
 * Ferram Aerospace Research (FAR)
-  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
   - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research Source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
 
 ### *Game Overhauls*
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
