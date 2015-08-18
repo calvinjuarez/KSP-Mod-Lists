@@ -7,7 +7,7 @@ These mods improve the general atmosphere or ambiance of the game without damagi
 
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 * Distant Object Enhancement
-  - [Original Forum Thread](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
+  - [Original KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
