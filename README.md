@@ -33,9 +33,11 @@ These mods add whole new mechanics or tech systems, or parts that tend to become
 ### *Tech*
 These add tech, and usually add or change parts for that tech.
 
-* [SCANsat](https://github.com/S-C-A-N/SCANsat "GitHub Repository")
+* SCANsat
+  - [GitHub Repository](https://github.com/S-C-A-N/SCANsat "SCANsat source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/249/SCANsat "SCANsat on Kerbal Stuff")
 * [Remote Tech](https://remotetechnologiesgroup.github.io/RemoteTech/ "Remote Tech Main Site")
-  - [GitHub Repo](https://github.com/RemoteTechnologiesGroup/RemoteTech "Remote Tech Source on GitHub")
+  - [GitHub Repository](https://github.com/RemoteTechnologiesGroup/RemoteTech "Remote Tech source on GitHub")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/83305-1-0-4-RemoteTech-v1-6-7-2015-06-25 "Remote Tech KSP Forum Thread")
 
 ### *Integral Parts & Parts Packs*
