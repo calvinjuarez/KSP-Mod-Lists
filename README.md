@@ -29,7 +29,10 @@ These mods add whole new mechanics or tech systems, or parts that tend to become
 These add tech, and usually add or change parts for that tech.
 
 * [SCANsat](https://github.com/S-C-A-N/SCANsat "GitHub Repository")
-* [Remote Tech](http://forum.kerbalspaceprogram.com/threads/83305-1-0-4-RemoteTech-v1-6-7-2015-06-25 "KSP Forum Thread")
+* [Remote Tech](https://remotetechnologiesgroup.github.io/RemoteTech/ "Remote Tech Main Site")
+  - [GitHub Repo](https://github.com/RemoteTechnologiesGroup/RemoteTech "Remote Tech Source on GitHub")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/83305-1-0-4-RemoteTech-v1-6-7-2015-06-25 "Remote Tech KSP Forum Thread")
+  - []
 
 ### *Integral Parts & Parts Packs*
 These add large numbers of parts and/or parts that easily become integral to a craft, making that craft difficult to make stock-compatible.
@@ -43,7 +46,7 @@ These mods overhaul whole features, or in some cases, the whole game.  Air- or s
 ### *Feature Overhauls*
 * Ferram Aerospace Research (FAR)
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
-  - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research on GitHub")
+  - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research Source on GitHub")
 
 ### *Game Overhauls*
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
