@@ -50,7 +50,9 @@ These add tech, and usually add or change parts for that tech.
 ### _Integral Parts & Parts Packs_
 These add large numbers of parts and/or parts that easily become integral to a craft, making that craft difficult to make stock-compatible.
 
-* [B9 Aerospace](http://forum.kerbalspaceprogram.com/threads/92630-0-90-B9-Aerospace-Release-5-2-8-(updated-30-12-14) "KSP Forum Thread")
+* B9 Aerospace (KSP 0.90)
+  - [Kerbal Stuff Page](http://beta.kerbalstuff.com/mod/132/B9%20Aerospace%20Pack "B9 Aerospace on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/92630-0-90-B9-Aerospace-Release-5-2-8-(updated-30-12-14) "B9 Aerospace KSP Forum Thread")
 * KW Rocketry (KSP 1.0.2)
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/67/KW%20Rocketry "KW Rocketry on Kerbal Stuff")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/51037-1-02-KW-Rocketry-v2-7-Available-1-02-Compatibility!-16-05-2015 "KW Rocketry KSP Forum Thread")
