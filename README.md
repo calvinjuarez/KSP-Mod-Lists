@@ -6,6 +6,11 @@ This repository is just lists of links to KSP mods I like or want to try out, or
 These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
+* [Distant Object Enhancement](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Original KSP Forum Thread")
+  - Distant Object Enhancement bis (MOARdV's Maintenance Version)
+    * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
+    * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
+    * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis KSP Forum Thread")
 
 
 ## Class 2 – *Trivial Parts*
