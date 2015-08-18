@@ -6,7 +6,8 @@ This repository is just lists of links to KSP mods I like or want to try out, or
 These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
-* [Distant Object Enhancement](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Original KSP Forum Thread")
+* Distant Object Enhancement
+  - [Original Forum Thread](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
@@ -25,7 +26,8 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
-* [UbioZur Welding (v.22; **Dev Stopped**)](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
+* UbioZur Welding (v.22; **Dev Stopped**)
+  - [Original KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
   - .23 Unofficial Fix
     * [GitHub Repository](https://github.com/malkuth1974/unofficailUbioWeld "UbioZur Welding Unofficial .23 Fix on GitHub")
     * [KSP Forum Post](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Playtest-5-Now-In-Game-Tool?p=1002144&viewfull=1#post1002144 "UbioZur Welding Unofficial .23 Fix KSP Forum Post")
@@ -40,7 +42,8 @@ These add tech, and usually add or change parts for that tech.
 * SCANsat
   - [GitHub Repository](https://github.com/S-C-A-N/SCANsat "SCANsat source on GitHub")
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/249/SCANsat "SCANsat on Kerbal Stuff")
-* [Remote Tech](https://remotetechnologiesgroup.github.io/RemoteTech/ "Remote Tech Main Site")
+* Remote Tech
+  - [Online Manual](https://remotetechnologiesgroup.github.io/RemoteTech/ "Remote Tech Main Site")
   - [GitHub Repository](https://github.com/RemoteTechnologiesGroup/RemoteTech "Remote Tech source on GitHub")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/83305-1-0-4-RemoteTech-v1-6-7-2015-06-25 "Remote Tech KSP Forum Thread")
 
