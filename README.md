@@ -10,7 +10,7 @@ These mods improve the general atmosphere or ambiance of the game without damagi
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
-    * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis KSP Forum Thread")
+    * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis on Kerbal Stuff")
 
 
 ## Class 2 – *Trivial Parts*
@@ -25,8 +25,7 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
-* UbioZur Welding (v.22; **Dev Stopped**)
-  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
+* [UbioZur Welding (v.22; **Dev Stopped**)](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
   - .23 Unofficial Fix
     * [GitHub Repository](https://github.com/malkuth1974/unofficailUbioWeld "UbioZur Welding Unofficial .23 Fix on GitHub")
     * [KSP Forum Post](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Playtest-5-Now-In-Game-Tool?p=1002144&viewfull=1#post1002144 "UbioZur Welding Unofficial .23 Fix KSP Forum Post")
