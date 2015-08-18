@@ -28,9 +28,9 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding (For KSP 0.22; **Dev Stopped**)
   - [Original KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
-  - KSP 0.23 Unofficial Fix
-    * [GitHub Repository](https://github.com/malkuth1974/unofficailUbioWeld "UbioZur Welding Unofficial .23 Fix on GitHub")
-    * [KSP Forum Post](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Playtest-5-Now-In-Game-Tool?p=1002144&viewfull=1#post1002144 "UbioZur Welding Unofficial .23 Fix KSP Forum Post")
+  - Malkuth's Unofficial Fix for KSP 0.23
+    * [GitHub Repository](https://github.com/malkuth1974/unofficailUbioWeld "Malkuth's Unofficial Fix for KSP 0.23 source on GitHub")
+    * [KSP Forum Post](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Playtest-5-Now-In-Game-Tool?p=1002144&viewfull=1#post1002144 "Malkuth's Unofficial Fix for KSP 0.23 KSP Forum Post")
 
 
 ## Class 4 – *Integral Mods*
