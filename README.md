@@ -1,5 +1,5 @@
 # KSP Mod Lists
-This repository is just lists of links to KSP mods I like or want to try out, organized (very roughly) by the severity of their effects on gameplay and stock compatibility.
+This repository is just lists of links to KSP mods I like or want to try out, organized (very roughly) by the severity of their effects on gameplay and stock compatibility.  Not all mods have been checked for compatibility with current versions of KSP.
 
 
 ## Class 1 – _Ambiance_
