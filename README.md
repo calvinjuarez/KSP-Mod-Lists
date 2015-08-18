@@ -20,6 +20,7 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
+* [UbioZur Welding](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread") (v.22; Dev Stopped)
 
 
 ## Class 4 – *Integral Mods*
