@@ -29,6 +29,7 @@ These mods add whole new mechanics or tech systems, or parts that tend to become
 These add tech, and usually add or change parts for that tech.
 
 * [SCANsat](https://github.com/S-C-A-N/SCANsat "GitHub Repository")
+* [Remote Tech](http://forum.kerbalspaceprogram.com/threads/83305-1-0-4-RemoteTech-v1-6-7-2015-06-25 "KSP Forum Thread")
 
 ### *Integral Parts & Parts Packs*
 These add large numbers of parts and/or parts that easily become integral to a craft, making that craft difficult to make stock-compatible.
