@@ -15,7 +15,7 @@ These mods improve the general atmosphere or ambiance of the game without damagi
 
 
 ## Class 2 – *Trivial Parts*
-These mods add parts, but don't generally add new mechanics.  They may also tweak existing parts.  The parts can easily be removed from crafts to make them stock-compatible.
+These mods add parts, but don't generally add new mechanics.  The parts can often easily be removed from crafts to make them stock-compatible.
 
 * [EVA Handrails](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "KSP Forum Thread")
 * [Surface Lights](http://forum.kerbalspaceprogram.com/threads/57778-1-0-Surface-Mounted-Stock-Alike-Lights-for-Self-Illumination "KSP Forum Thread")
