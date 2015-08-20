@@ -11,6 +11,7 @@ These mods improve the general atmosphere or ambiance of the game without damagi
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
     * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis on Kerbal Stuff")
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
+* [Engine Lighting](http://forum.kerbalspaceprogram.com/threads/121987-1-0-4-Engine-Lighting-(1-4-0)-The-Decoupler-Update-(30-June) "KSP Forum Thread")
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 
 
