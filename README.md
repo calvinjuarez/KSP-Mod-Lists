@@ -18,7 +18,7 @@ These mods improve the general atmosphere or ambiance of the game without damagi
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 
 
-## Class 2 – *Trivial Parts*
+## Class 2 – _Trivial Parts_
 These mods add parts, but don't generally add new mechanics.  The parts can often easily be removed from crafts to make them stock-compatible.
 
 * [EVA Handrails](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "KSP Forum Thread")
