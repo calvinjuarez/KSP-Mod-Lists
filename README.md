@@ -75,11 +75,15 @@ These focus only on fixing bugs in the stock game, so save-breaking is minimal a
 * [Stock Bug Fix Modules](http://forum.kerbalspaceprogram.com/threads/97285-KSP-v1-0-4-Stock-Bug-Fix-Modules-(Release-v1-0-4b-2-1-Aug-15) "KSP Forum Thread")
 
 ### _Feature Overhauls_
+These tend to add more realism to existing features.  Because they replace stock behavior, the saves created with them tend to be mostly incompatible with the stock game.
+
 * Ferram Aerospace Research (FAR)
   - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research Source on GitHub")
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
 
 ### _Game Overhauls_
+These are mods that change so much that they may feel like you're playing an entirely different game.
+
 * [KSP Interstellar (KSP 0.25)](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
 
 
