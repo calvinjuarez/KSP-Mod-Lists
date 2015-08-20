@@ -39,6 +39,10 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 * Hot Spot
   - [GitHub Repository](https://github.com/Apokee/HotSpot "Hot Spot source on GitHub")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/123967-1-0-4-0-4-4-Hot-Spot-(formerly-Enhanced-Thermal-Data)-Better-Thermal-Data "Hot Spot KSP Forum Thread")
+* Kerbal Alarm Clock
+  - [GitHub Repository](https://github.com/TriggerAu/KerbalAlarmClock "Kerbal Alarm Clock source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/231/Kerbal%20Alarm%20Clock "Kerbal Alarm Clock on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/24786-1-0-x-Kerbal-Alarm-Clock-v3-4-0-0-(June-27) "Kerbal Alarm Clock KSP Forum Thread")
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding
