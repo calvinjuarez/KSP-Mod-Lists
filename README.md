@@ -66,6 +66,11 @@ These add large numbers of parts and/or parts that easily become integral to a c
 ## Class 5 – _Game Changers_
 These mods overhaul whole features, or in some cases, the whole game.  Air- or spacecraft built with them may not work the same way in stock.  The changes they introduce often make the gameplay substantially different to stock.
 
+### _Community Bug Fixes_
+These focus only on fixing bugs in the stock game, so save-breaking is minimal and gameplay is largely unaffected.
+
+* [Stock Bug Fix Modules](http://forum.kerbalspaceprogram.com/threads/97285-KSP-v1-0-4-Stock-Bug-Fix-Modules-(Release-v1-0-4b-2-1-Aug-15) "KSP Forum Thread")
+
 ### _Feature Overhauls_
 * Ferram Aerospace Research (FAR)
   - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research Source on GitHub")
