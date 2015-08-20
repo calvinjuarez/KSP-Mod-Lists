@@ -28,6 +28,7 @@ These mods add parts, but don't generally add new mechanics.  The parts can ofte
 ## Class 3 – _Tools_
 These are gameplay tools.  Their functions vary widely, so they also affect the game in lots of different ways.
 
+* [Critical Temperature Gauge](http://forum.kerbalspaceprogram.com/threads/119686-1-0-4-Critical-temperature-gauge "KSP Forum Thread")
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding
