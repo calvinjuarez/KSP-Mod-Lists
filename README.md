@@ -12,7 +12,10 @@ These mods improve the general atmosphere or ambiance of the game without damagi
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
     * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis on Kerbal Stuff")
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
-* [Engine Lighting](http://forum.kerbalspaceprogram.com/threads/121987-1-0-4-Engine-Lighting-(1-4-0)-The-Decoupler-Update-(30-June) "KSP Forum Thread")
+* EngineLighting
+  - [GitHub Repository](https://github.com/tatjam/KSP-EngineLight "EngineLighting source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/817/EngineLighting "EngineLighting on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/121987-1-0-4-Engine-Lighting-(1-4-0)-The-Decoupler-Update-(30-June) "KSP Forum Thread")
 * [RCS Sound Effects](http://forum.kerbalspaceprogram.com/threads/52896-1-0-x-RCS-Sound-(and-light!)-Effects-(2015-02-01) "KSP Forum Thread")
 * [Rover Wheel Sounds](http://forum.kerbalspaceprogram.com/threads/55104-1-0-x-Rover-Wheel-Sounds-v1-1-(2014-09-25) "KSP Forum Thread")
 * Stock Clamshell Fairings
