@@ -5,7 +5,10 @@ This repository is just lists of links to mods for [Kerbal Space Program](https:
 ## Class 1 – _Ambiance_
 These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
-* [Collision FX](http://forum.kerbalspaceprogram.com/threads/101496-1-0-x-Collision-FX-v3-2-(2015-05-14)-Now-with-EVA-kerbal-sound-effects "KSP Forum Thread")
+* Collision FX
+  - [GitHub Repository](https://github.com/pizzaoverhead/CollisionFX "Collision FX source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/381/Collision%20FX "Collision FX on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/101496-1-0-x-Collision-FX-v3-2-(2015-05-14)-Now-with-EVA-kerbal-sound-effects "Collision FX KSP Forum Thread")
 * Distant Object Enhancement
   - [Original KSP Forum Thread (KSP 0.24)](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
@@ -44,6 +47,7 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/231/Kerbal%20Alarm%20Clock "Kerbal Alarm Clock on Kerbal Stuff")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/24786-1-0-x-Kerbal-Alarm-Clock-v3-4-0-0-(June-27) "Kerbal Alarm Clock KSP Forum Thread")
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
+* [Routine Mission Manager](https://kerbalstuff.com/mod/463/Routine%20Mission%20Manager "Kerbal Stuff Page")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding
   - [Original KSP Forum Thread (KSP 0.22)](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
