@@ -5,12 +5,16 @@ This repository is just lists of links to mods for [Kerbal Space Program](https:
 ## Class 1 – _Ambiance_
 These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
+* [Collision FX](http://forum.kerbalspaceprogram.com/threads/101496-1-0-x-Collision-FX-v3-2-(2015-05-14)-Now-with-EVA-kerbal-sound-effects "KSP Forum Thread")
 * Distant Object Enhancement
   - [Original KSP Forum Thread (KSP 0.24)](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
     * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis on Kerbal Stuff")
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
+* [Engine Lighting](http://forum.kerbalspaceprogram.com/threads/121987-1-0-4-Engine-Lighting-(1-4-0)-The-Decoupler-Update-(30-June) "KSP Forum Thread")
+* [RCS Sound Effects](http://forum.kerbalspaceprogram.com/threads/52896-1-0-x-RCS-Sound-(and-light!)-Effects-(2015-02-01) "KSP Forum Thread")
+* [Rover Wheel Sounds](http://forum.kerbalspaceprogram.com/threads/55104-1-0-x-Rover-Wheel-Sounds-v1-1-(2014-09-25) "KSP Forum Thread")
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 
 
@@ -24,6 +28,7 @@ These mods add parts, but don't generally add new mechanics.  The parts can ofte
 ## Class 3 – _Tools_
 These are gameplay tools.  Their functions vary widely, so they also affect the game in lots of different ways.
 
+* [Critical Temperature Gauge](http://forum.kerbalspaceprogram.com/threads/119686-1-0-4-Critical-temperature-gauge "KSP Forum Thread")
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding
