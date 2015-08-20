@@ -5,23 +5,33 @@ This repository is just lists of links to mods for [Kerbal Space Program](https:
 ## Class 1 – _Ambiance_
 These mods improve the general atmosphere or ambiance of the game without damaging compatibility.  That is, a game will work pretty much the same with or without the mod installed.
 
-* [Collision FX](http://forum.kerbalspaceprogram.com/threads/101496-1-0-x-Collision-FX-v3-2-(2015-05-14)-Now-with-EVA-kerbal-sound-effects "KSP Forum Thread")
+* Collision FX
+  - [GitHub Repository](https://github.com/pizzaoverhead/CollisionFX "Collision FX source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/381/Collision%20FX "Collision FX on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/101496-1-0-x-Collision-FX-v3-2-(2015-05-14)-Now-with-EVA-kerbal-sound-effects "Collision FX KSP Forum Thread")
 * Distant Object Enhancement
   - [Original KSP Forum Thread (KSP 0.24)](http://forum.kerbalspaceprogram.com/threads/69907-0-24-Distant-Object-Enhancement-1-3-1-Planets-satellites-in-the-night-sky!-(7-29) "Distant Object Enhancement Original KSP Forum Thread")
   - Distant Object Enhancement bis (MOARdV's Maintenance Version)
     * [GitHub Repository](https://github.com/MOARdV/DistantObject "Distant Object Enhancement bis on GitHub")
     * [Kerbal Stuff Page](https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis "Distant Object Enhancement bis on Kerbal Stuff")
     * [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/98943 "Distant Object Enhancement bis KSP Forum Thread")
-* [Engine Lighting](http://forum.kerbalspaceprogram.com/threads/121987-1-0-4-Engine-Lighting-(1-4-0)-The-Decoupler-Update-(30-June) "KSP Forum Thread")
+* EngineLighting
+  - [GitHub Repository](https://github.com/tatjam/KSP-EngineLight "EngineLighting source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/817/EngineLighting "EngineLighting on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/121987-1-0-4-Engine-Lighting-(1-4-0)-The-Decoupler-Update-(30-June) "KSP Forum Thread")
 * [RCS Sound Effects](http://forum.kerbalspaceprogram.com/threads/52896-1-0-x-RCS-Sound-(and-light!)-Effects-(2015-02-01) "KSP Forum Thread")
 * [Rover Wheel Sounds](http://forum.kerbalspaceprogram.com/threads/55104-1-0-x-Rover-Wheel-Sounds-v1-1-(2014-09-25) "KSP Forum Thread")
-* [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
+* Stock Clamshell Fairings
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/878/Stock%20Clamshell%20Fairings "Stock Clamshell Fairings on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "Stock Clamshell Fairings KSP Forum Thread")
 
 
-## Class 2 – _Trivial Parts_
+## Class 2 – _Trivial Parts_
 These mods add parts, but don't generally add new mechanics.  The parts can often easily be removed from crafts to make them stock-compatible.
 
-* [EVA Handrails](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "KSP Forum Thread")
+* NEBULA EVA Handrails
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/353/NEBULA%20EVA%20handrails%20pack. "NEBULA EVA Handrails on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "NEBULA EVA Handrails KSP Forum Thread")
 * [Surface Lights](http://forum.kerbalspaceprogram.com/threads/57778-1-0-Surface-Mounted-Stock-Alike-Lights-for-Self-Illumination "KSP Forum Thread")
 
 
@@ -32,7 +42,12 @@ These are gameplay tools.  Their functions vary widely, so they also affect the 
 * Hot Spot
   - [GitHub Repository](https://github.com/Apokee/HotSpot "Hot Spot source on GitHub")
   - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/123967-1-0-4-0-4-4-Hot-Spot-(formerly-Enhanced-Thermal-Data)-Better-Thermal-Data "Hot Spot KSP Forum Thread")
+* Kerbal Alarm Clock
+  - [GitHub Repository](https://github.com/TriggerAu/KerbalAlarmClock "Kerbal Alarm Clock source on GitHub")
+  - [Kerbal Stuff Page](https://kerbalstuff.com/mod/231/Kerbal%20Alarm%20Clock "Kerbal Alarm Clock on Kerbal Stuff")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/24786-1-0-x-Kerbal-Alarm-Clock-v3-4-0-0-(June-27) "Kerbal Alarm Clock KSP Forum Thread")
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
+* [Routine Mission Manager](https://kerbalstuff.com/mod/463/Routine%20Mission%20Manager "Kerbal Stuff Page")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding
   - [Original KSP Forum Thread (KSP 0.22)](http://forum.kerbalspaceprogram.com/threads/38577-0-22-UbioZur-Welding-Ltd-2-0-Dev-STOPPED "KSP Forum Thread")
