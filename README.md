@@ -18,7 +18,7 @@ These mods improve the general atmosphere or ambiance of the game without damagi
 * [Stock Clamshell Fairings](http://forum.kerbalspaceprogram.com/threads/124031-1-0-4-Stock-Clamshell-Fairings-(June-1) "KSP Forum Thread")
 
 
-## Class 2 – *Trivial Parts*
+## Class 2 – _Trivial Parts_
 These mods add parts, but don't generally add new mechanics.  The parts can often easily be removed from crafts to make them stock-compatible.
 
 * [EVA Handrails](http://forum.kerbalspaceprogram.com/threads/100531-0-25-NEBULA-space-engineering-EVA-handrails-pack "KSP Forum Thread")
@@ -29,6 +29,9 @@ These mods add parts, but don't generally add new mechanics.  The parts can ofte
 These are gameplay tools.  Their functions vary widely, so they also affect the game in lots of different ways.
 
 * [Critical Temperature Gauge](http://forum.kerbalspaceprogram.com/threads/119686-1-0-4-Critical-temperature-gauge "KSP Forum Thread")
+* Hot Spot
+  - [GitHub Repository](https://github.com/Apokee/HotSpot "Hot Spot source on GitHub")
+  - [KSP Forum Thread](http://forum.kerbalspaceprogram.com/threads/123967-1-0-4-0-4-4-Hot-Spot-(formerly-Enhanced-Thermal-Data)-Better-Thermal-Data "Hot Spot KSP Forum Thread")
 * [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-1-0-4-Kerbal-Engineer-Redux-v1-0-18-0 "KSP Forum Thread")
 * [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-0-90-TweakScale-Rescale-Everything!-(v1-50-2014-12-24-10-40-UTC) "KSP Forum Thread")
 * UbioZur Welding
@@ -66,12 +69,21 @@ These add large numbers of parts and/or parts that easily become integral to a c
 ## Class 5 – _Game Changers_
 These mods overhaul whole features, or in some cases, the whole game.  Air- or spacecraft built with them may not work the same way in stock.  The changes they introduce often make the gameplay substantially different to stock.
 
+### _Community Bug Fixes_
+These focus only on fixing bugs in the stock game, so save-breaking is minimal and gameplay is largely unaffected.
+
+* [Stock Bug Fix Modules](http://forum.kerbalspaceprogram.com/threads/97285-KSP-v1-0-4-Stock-Bug-Fix-Modules-(Release-v1-0-4b-2-1-Aug-15) "KSP Forum Thread")
+
 ### _Feature Overhauls_
+These tend to add more realism to existing features.  Because they replace stock behavior, the saves created with them tend to be mostly incompatible with the stock game.
+
 * Ferram Aerospace Research (FAR)
   - [GitHub Repository](https://github.com/ferram4/Ferram-Aerospace-Research "Ferram Aerospace Research Source on GitHub")
   - [Kerbal Stuff Page](https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research "Ferram Aerospace Research on Kerbal Stuff")
 
 ### _Game Overhauls_
+These are mods that change so much that they may feel like you're playing an entirely different game.
+
 * [KSP Interstellar (KSP 0.25)](http://forum.kerbalspaceprogram.com/threads/43839-0-25-KSP-Interstellar-(Magnetic-Nozzles-ISRU-Revamp)-Version-0-13 "KSP Forum Thread")
 
 
